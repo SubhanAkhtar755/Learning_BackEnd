@@ -1,0 +1,42 @@
+const DELETE_DATA_MESSAGE = 'Data deleted successfully';
+const POST_DATA_MESSAGE = 'Data posted successfully';
+const UPDATE_DATA_MESSAGE = 'Data updated successfully';
+const GET_DATA_MESSAGE = 'Data retrieved successfully';
+const INTERNAL_SERVER_ERROR_MESSAGE = 'Internal server error';
+const USER_NOT_FOUND_MESSAGE = 'User not found';
+const INVALID_INPUT_MESSAGE = 'Invalid input provided';
+const UNAUTHORIZED_ACCESS_MESSAGE = 'Unauthorized access';
+const FORBIDDEN_ACCESS_MESSAGE = 'Forbidden access';
+const USER_ALREADY_EXISTS_MESSAGE = 'User already exists';
+const PASSWORD_MISMATCH_MESSAGE = 'Password mismatch';
+const EMAIL_NOT_FOUND_MESSAGE = 'Email not found';
+const INVALID_TOKEN_MESSAGE = 'Invalid token provided';
+const PASSWORD_RESET_SUCCESS_MESSAGE = 'Password reset successfully';
+const ACCOUNT_ACTIVATION_SUCCESS_MESSAGE = 'Account activated successfully';
+const ACCOUNT_DELETION_SUCCESS_MESSAGE = 'Account deleted successfully';
+const EMAIL_VERIFICATION_SUCCESS_MESSAGE = 'Email verification successful';
+const EMAIL_VERIFICATION_FAILURE_MESSAGE = 'Email verification failed';
+const ACCOUNT_LOCKED_MESSAGE = 'Account is locked';
+
+
+export {
+    DELETE_DATA_MESSAGE,
+    POST_DATA_MESSAGE,
+    UPDATE_DATA_MESSAGE,
+    GET_DATA_MESSAGE,
+    INTERNAL_SERVER_ERROR_MESSAGE,
+    USER_NOT_FOUND_MESSAGE,
+    INVALID_INPUT_MESSAGE,
+    UNAUTHORIZED_ACCESS_MESSAGE,
+    FORBIDDEN_ACCESS_MESSAGE,
+    USER_ALREADY_EXISTS_MESSAGE,
+    PASSWORD_MISMATCH_MESSAGE,
+    EMAIL_NOT_FOUND_MESSAGE,
+    INVALID_TOKEN_MESSAGE,
+    PASSWORD_RESET_SUCCESS_MESSAGE,
+    ACCOUNT_ACTIVATION_SUCCESS_MESSAGE,
+    ACCOUNT_DELETION_SUCCESS_MESSAGE,
+    EMAIL_VERIFICATION_SUCCESS_MESSAGE,
+    EMAIL_VERIFICATION_FAILURE_MESSAGE,
+    ACCOUNT_LOCKED_MESSAGE
+};
