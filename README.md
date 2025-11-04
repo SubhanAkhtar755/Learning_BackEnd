@@ -23,17 +23,17 @@ Understood and implemented Cross-Origin Resource Sharing (CORS) and essential mi
 
 ### 🧩 Folder Structure (Professional Setup)
 Followed a scalable backend structure:
-├── index.js
-├── src
-│ ├── constants
-│ ├── db
-│ ├── modules
-│ │ └── user
-│ │ ├── user.controller.js
-│ │ ├── user.service.js
-│ │ ├── user.model.js
-│ │ └── user.routes.js
-│ └── routes
+- ├── index.js
+- ├── src
+- │ ├── constants
+- │ ├── db
+- │ ├── modules
+- │ │ └── user
+- │ │ ├── user.controller.js
+- │ │ ├── user.service.js
+- │ │ ├── user.model.js
+- │ │ └── user.routes.js
+- │ └── routes
 
 yaml
 Copy code
