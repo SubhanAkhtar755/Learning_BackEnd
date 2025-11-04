@@ -1,27 +1,27 @@
-# 🚀 Node.js Backend Learning Projects
+#  Node.js Backend Learning Projects
 
 A collection of **Node.js practice projects** created while learning backend development fundamentals — from setting up a simple local server to building structured APIs using **Express**, **MongoDB (Mongoose)**, and **environment variables**.
 
 ---
 
-## 🧠 Learning Highlights
+##  Learning Highlights
 
-### 🟢 Server Basics
+###  Server Basics
 Learned to create and run servers using Node.js and Express, verifying responses in the console and browser.
 
-### ⚙️ API Development
+###  API Development
 Practiced sending and receiving JSON responses through simple REST APIs.
 
-### 🗄️ MongoDB Integration (Mongoose)
+###  MongoDB Integration (Mongoose)
 Connected backend apps to MongoDB using Mongoose, created models and schemas for data handling.
 
-### 🔐 Environment Variables (.env)
+###  Environment Variables (.env)
 Used `.env` to securely manage keys and sensitive configuration data.
 
-### 🌍 CORS Policy & Middleware
+###  CORS Policy & Middleware
 Understood and implemented Cross-Origin Resource Sharing (CORS) and essential middlewares for API handling.
 
-### 🧩 Folder Structure (Professional Setup)
+###  Folder Structure (Professional Setup)
 Followed a scalable backend structure:
 - ├── index.js
 - ├── src
@@ -40,7 +40,7 @@ Copy code
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |-------------|----------|
@@ -53,16 +53,16 @@ Copy code
 
 ---
 
-## 💡 Key Takeaways
+##  Key Takeaways
 
 This repo documents the **complete journey from beginner-level server setup to professional backend structuring** — preparing the foundation for full-stack MERN development.
 
 
 ---
 
-## 📬 Contact Me
+##  Contact Me
 
-**💼 Muhammad Subhan Akhtar**  
+** Muhammad Subhan Akhtar**  
 📧 [muhammadsubhan192128@gmail.com](mailto:muhammadsubhan192128@gmail.com)  
 🌐 [Portfolio Website](https://m-subhan-portfolio.web.app)  
 💬 Open for collaboration and freelance backend projects.
